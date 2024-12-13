@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vanessacarlinsiaa/myPortofolio/static/css/main.4c6fbeef.css",
+    "main.js": "/vanessacarlinsiaa/myPortofolio/static/js/main.162eae53.js",
+    "index.html": "/vanessacarlinsiaa/myPortofolio/index.html",
+    "main.4c6fbeef.css.map": "/vanessacarlinsiaa/myPortofolio/static/css/main.4c6fbeef.css.map",
+    "main.162eae53.js.map": "/vanessacarlinsiaa/myPortofolio/static/js/main.162eae53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6fbeef.css",
+    "static/js/main.162eae53.js"
+  ]
+}
